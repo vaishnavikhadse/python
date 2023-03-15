@@ -1,0 +1,5 @@
+ch=input('enter any char')
+x=ord(ch)
+print(x)
+z=chr(x)
+print(z)
